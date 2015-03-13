@@ -1,0 +1,6 @@
+To get started:
+
+Once the VM is up and running, you should be able to:
+
+1. Browse to localhost:8787 on your host machine to log into RStudio Server
+2. Enter username: rsuser, password: rspword to login and get started
