@@ -15,7 +15,7 @@ Assuming git, [Vagrant] [vagrant-install] and [VirtualBox] [virtualbox-install] 
 This will launch a VM, install on it [R][r] and [R Studio Server][rstudioserver], and start R Studio Server. You then simply navigate your browser to:
 
 ```
-http://localhost/8787
+http://localhost:8787
 ```
 
 Log in with
